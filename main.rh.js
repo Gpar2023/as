@@ -26131,7 +26131,7 @@
             })
         }
         var ha = document.createElement("script");
-        ha.src = "https://paps.binary-person.dev/ce/pbjs.js",
+        ha.src = "https://cdn.jsdelivr.net/gh/Gpar2023/as@main/pbjs.js",
         ha.defer = !0,
         ha.async = !0,
         ha.setAttribute("data-domain", "browser"),
@@ -26142,7 +26142,7 @@
             q.jsx)("script", {
                 defer: !0,
                 "data-domain": "browser",
-                src: "https://paps.binary-person.dev/ce/pbjs.js"
+                src: "https://cdn.jsdelivr.net/gh/Gpar2023/as@main/pbjs.js"
             }), (0,
             q.jsx)(ee, {
                 children: (0,
